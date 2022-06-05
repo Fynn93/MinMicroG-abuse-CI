@@ -43,3 +43,4 @@ The
 branch of this repo holds the entire resdl binary history of official
 MinMicroG releases. But the last commit always holds the binaries from the
 last CI build.
+
